@@ -6,3 +6,5 @@ Bayesian reverse design based on experimental knowledge constraints.This work ta
 * For the convenience of laboratory preparation, we designed both NIP and PIN devices separately in this work. You can adjust the corresponding “experimental knowledge constraint” according to your own needs.
 
 * "Prob_params_all.csv" is the output file for the current example. "nip_manusccript" and "pin_manuscript" are the data we used when writing the manusccript.
+
+10.1063/5.0216447
